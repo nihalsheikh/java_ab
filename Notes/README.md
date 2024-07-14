@@ -1,10 +1,28 @@
 # Notes
 
+### Datatypes
+
+Types of Datatypes:
+	- Primitive
+	- Non-Primitive
+
+**Primitive**
+	- integral
+		- byte
+		- short
+		- int
+		- long
+	- floating point
+		- float
+		- double
+	- char
+	- boolean
+
 **Datatype Table**
 
 | Type | Size | Range | Default Value |
 | ---- | ---- | ----- | ------------ |
-| byte | 1 | -128 to 127 | 0 |
+| byte | 1 byte | -128 to 127 | 0 |
 | short | 2 | -32768 to 32767 | 0 |
 | int | 4 | -2147483648 to 2147483647 | 0 |
 | long | 8 | - | 0 |
