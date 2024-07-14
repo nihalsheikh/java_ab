@@ -6,17 +6,19 @@ Types of Datatypes:
 	- Primitive
 	- Non-Primitive
 
-**Primitive**
-	- integral
-		- byte
-		- short
-		- int
-		- long
-	- floating point
+**Primitive** 
+	<ul>
+	- integral <br>
+		- byte <br>
+		- short <br>
+		- int <br>
+		- long <br>
+	- floating point <br>
 		- float
 		- double
 	- char
 	- boolean
+	</ul>
 
 *Java also supports other natural languages like Hebrew, Arabic, Japanese, Chinese...*
 
